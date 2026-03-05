@@ -12,7 +12,7 @@ Note that this package was developed using the conda distribution, adjust conda-
 `input/` is the folder in which you place input files that will be displayed. 
 
 ## Use
-Clone this repository onto your local device. Use `TexView.yml` file to load the apprpriate dependencies using your regular python distribution. You are then set up to use the package.
+Clone this repository onto your local device. Use `TexView.yml` file to load the appropriate dependencies using your regular python distribution and activate it. You are then set up to use the package.
 
 Replace the files inside input/ with the files you want to visualize --- no harm has been done to the frog currently living in the directory, it only there to fill up the space. Then run the following commands to create the output latex file. 
 

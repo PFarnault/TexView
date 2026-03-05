@@ -1,0 +1,6 @@
+name: TexView
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+prefix: C:\Users\paulf\miniforge3\envs\TexView
